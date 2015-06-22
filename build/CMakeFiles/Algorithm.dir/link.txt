@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/Algorithm.dir/main.cpp.o CMakeFiles/Algorithm.dir/Source.cpp.o CMakeFiles/Algorithm.dir/expvalue.cpp.o CMakeFiles/Algorithm.dir/leetcode.cpp.o  -o Algorithm -rdynamic 

@@ -1,0 +1,9 @@
+Trees: Know about trees; basic tree construction, traversal and manipulation algorithms.
+
+Familiarize yourself with binary trees, n-ary trees, and trie-trees. Be familiar with at least one
+
+type of balanced binary tree, whether it's a red/black tree, a splay tree or an AVL tree, and know
+
+how it's implemented. Understand tree traversal algorithms: BFS and DFS, and know the
+
+difference between inorder, postorder and preorder.
